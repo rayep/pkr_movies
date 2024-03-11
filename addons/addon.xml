@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.pkrmovies"
-version="1.0.6"
+version="2.0.0"
 name="PKR Movies"
 provider-name="Ray A">
 <requires>
@@ -14,7 +14,7 @@ provider-name="Ray A">
 <extension point="xbmc.addon.metadata">
   <summary lang="en_GB">PKR Movies Video Plugin</summary>
   <description lang="en_GB">PKR Movies plugin for Kodi mediacenter.</description>
-  <disclaimer lang="en_GB">Movies are provided by TamilGun.Ninja</disclaimer>
+  <disclaimer lang="en_GB">Movies are provided by TamilGun.Group</disclaimer>
   <license>GPL-3.0-only	</license>
   <assets>
     <icon>resources/images/icon.png</icon>
